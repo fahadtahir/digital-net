@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8ELyQXksEOpckWPi34Esz7d7D2V+VNTRRlAi1wXx3VQ=",
+  "Hash": "DCKpDWDSqk4A3XE64Lo67VfAdRwo0KN0PFj6LFuAR5o=",
   "Source": "digital-net",
   "BasePath": "_content/digital-net",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\fahad\\Documents\\digital-net\\wwwroot\\img\\logo.png",
+      "SourceId": "digital-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fahad\\Documents\\digital-net\\wwwroot\\",
+      "BasePath": "_content/digital-net",
+      "RelativePath": "img/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
       "Identity": "C:\\Users\\fahad\\Documents\\digital-net\\wwwroot\\js\\site.js",
