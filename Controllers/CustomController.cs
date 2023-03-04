@@ -11,4 +11,11 @@ public class CustomController : Controller
     {
         return "Welcome to Digital Springs";
     }
+
+    // 
+    // GET: /Custom/Welcome/
+    public string Welcome(string name, int ID = 1)
+    {
+        return HtmlEncoder.Default.Encode($"Hello {name}, ID: {ID}");
+    }
 }
